@@ -1,0 +1,65 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/rv-submenus\n"
+"POT-Creation-Date: 2011-08-20 18:27:46+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: rv_SubMenus.php:41
+msgid "Use this widget to show specific submenu from your wordpress's menu."
+msgstr ""
+
+#: rv_SubMenus.php:42
+msgid "Submenu sidebar widget"
+msgstr ""
+
+#: rv_SubMenus.php:271
+msgid "Title:"
+msgstr ""
+
+#: rv_SubMenus.php:274
+msgid "Menu:"
+msgstr ""
+
+#: rv_SubMenus.php:276
+msgid "Select a menu"
+msgstr ""
+
+#: rv_SubMenus.php:287
+msgid "Level start in 1"
+msgstr ""
+
+#: rv_SubMenus.php:288
+msgid "Start level:"
+msgstr ""
+
+#: rv_SubMenus.php:291
+msgid "Show sub-menu:"
+msgstr ""
+
+#: rv_SubMenus.php:293
+msgid "No"
+msgstr ""
+
+#: rv_SubMenus.php:294
+msgid "Yes"
+msgstr ""
+
+#: rv_SubMenus.php:298
+msgid "Depth of sub-menu:"
+msgstr ""
+
+#: rv_SubMenus.php:300
+msgid "0 show all"
+msgstr ""
+
+#: rv_SubMenus.php:275
+msgid "Show ancestor's name as title"
+msgstr ""

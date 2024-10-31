@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richard <richard.venancio@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Use this widget to show specific submenu from your wordpress's menu."
+msgstr "Use esse widget para mostrar um n&iacute;vel espec&iacute;fico de um menu do wordpress."
+
+msgid "Start level:"
+msgstr "N&iacute;vel inicial:"
+
+msgid "Submenu sidebar widget"
+msgstr ""
+
+msgid "Title:"
+msgstr "T&iacute;tulo:"
+
+msgid "Menu:"
+msgstr ""
+
+msgid "Select a menu"
+msgstr "Selecione um menu"
+
+msgid "Level start in 1"
+msgstr "N&iacute;vel come&ccedil;a em 1"
+
+msgid "Show sub-menu:"
+msgstr "Mostrar sub-menu:"
+
+msgid "No"
+msgstr "N&atilde;o"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "Depth of sub-menu:"
+msgstr "Profundidade do sub-menu:"
+
+msgid "0 show all"
+msgstr "0 mostra todos"
+
+msgid "Show ancestor's name as title"
+msgstr "Exibir menu ancestral como t&iacute;tulo"
+
